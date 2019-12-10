@@ -7,15 +7,15 @@ import lombok.Setter;
 @Setter
 public class Department {
     private Long id;
-    //状态
+    //状态22222
     private String sn;
-    //状态
+    //状态22222
     private String name;
-    //状态
+    //状态2222
     private Employee manager;
-    //状态
+    //状态2222
     private Department parent;
-    //状态
+    //状态22222
     private Boolean state;
 
 
